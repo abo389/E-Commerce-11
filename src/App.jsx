@@ -1,11 +1,11 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import LoginPage from "./Pages_temp/LoginPage/LoginPage";
-import GuestRoute from "./Components/GuestRoute/GuestRoute";
-import Layout from "./Components/Layout/Layout";
-import Home from "./Pages_temp/Home";
+import GuestRoute from "./Components_temp/GuestRoute/GuestRoute";
+import Layout from "./Components_temp/Layout/Layout";
+import Home from "./Pages/Home";
 import RegisterPage from "./Pages_temp/RegisterPage/RegisterPage";
 import ProductsPage from "./Pages_temp/ProductsPage";
-import Cart from "./Components/Cart/Cart";
+import Cart from "./Components_temp/Cart/Cart";
 import FilteredProducts from "./Pages_temp/FilteredProducts";
 import ProductDetails from "./Pages_temp/ProductDetails";
 import ErrorPage from "./Pages_temp/ErrorPage";
