@@ -1,4 +1,4 @@
-import { useHomeContext } from "../../context/homeContext";
+import { useHomeContext } from "../../context/HomeContext";
 import Card from "./Card";
 
 function ProductsCard() {
