@@ -10,7 +10,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 
 import SliderButtons from "../../ui/SliderButtons";
 
-import { useHomeContext } from "../../context/HomeContext";
+import { useHomeContext } from "../../context/HomeContextt";
 import { Link } from "react-router-dom";
 
 export default function Slider({

@@ -2,7 +2,7 @@ import HeadingSlider from "../Components/home/HeadingSlider";
 import ProductsCard from "../Components/home/ProductsCard";
 import Slider from "../Components/home/Slider";
 import Loading from "../Components/loading/Loading";
-import { useHomeContext } from "../context/HomeContext";
+import { useHomeContext } from "../context/HomeContextt";
 
 function Home() {
   const { categories, isLoading } = useHomeContext();

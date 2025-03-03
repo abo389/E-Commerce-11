@@ -11,7 +11,7 @@ import ProductDetails from "./Pages/ProductDetails";
 import ErrorPage from "./Pages/ErrorPage";
 import Orders from "./Pages/Orders/Orders";
 import UserProvider from "./context/User.context";
-import HomeContextProvider from "./context/HomeContext";
+import HomeContextProvider from "./context/HomeContextt";
 import CartContextProvider from "./context/CartContext";
 import ProductsContextProvider from "./context/ProductsContext";
 import OrderMethodPage from "./Pages/Orders/OrderMethodPage";
