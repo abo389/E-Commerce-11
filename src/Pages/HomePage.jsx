@@ -1,8 +1,7 @@
-import toast from "react-hot-toast";
-import HeadingSlider from "../Components_temp/home/HeadingSlider";
-import ProductsCard from "../Components_temp/home/ProductsCard";
-import Slider from "../Components_temp/home/Slider";
-import Loading from "../Components_temp/loading/Loading";
+import HeadingSlider from "../Components/home/HeadingSlider";
+import ProductsCard from "../Components/home/ProductsCard";
+import Slider from "../Components/home/Slider";
+import Loading from "../Components/loading/Loading";
 import { useHomeContext } from "../context/HomeContext";
 
 function Home() {
