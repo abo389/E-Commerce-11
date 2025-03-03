@@ -2,7 +2,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import LoginPage from "./Pages_temp/LoginPage/LoginPage";
 import GuestRoute from "./Components/GuestRoute/GuestRoute";
 import Layout from "./Components/Layout/Layout";
-import Home from "./Pages_temp/Home";
+import Home from "./Pages/Home";
 import RegisterPage from "./Pages_temp/RegisterPage/RegisterPage";
 import ProductsPage from "./Pages_temp/ProductsPage";
 import Cart from "./Components/Cart/Cart";
