@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Loading from "../../components/loading/Loading";
+import Loading from "../../Components/loading/Loading";
 import { Link, Navigate } from "react-router-dom";
 import axios from "axios";
 import { useUserContext } from "../../context/User.context";
